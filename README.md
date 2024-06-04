@@ -11,6 +11,10 @@
 
 <hr>
 
+<p>
+    <b> NOTE </b>: This project is no longer actively maintained.
+</p>
+
 ## Dependencies
 - Java 11 (soon to be 17)
 - Angular 12
